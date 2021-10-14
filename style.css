@@ -1,8 +1,14 @@
 body {
   background-color : rgb(47,47,47);
   color:#fd4d4d;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   font-family: Futura,Trebuchet MS,Arial,sans-serif; 
-  text-decoration: none;
+  align-items: center;
 }
 .header {
   color: #fd4d4d
@@ -88,4 +94,7 @@ button {
 }
 .names:hover {
   text-decoration: underline;
+}
+pre {
+  text-align: center;
 }
