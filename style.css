@@ -9,6 +9,7 @@ body {
   transform: translate(-50%, -50%);
   font-family: Futura,Trebuchet MS,Arial,sans-serif; 
   align-items: center;
+  font-size: 14px;
 }
 .header {
   color: #fd4d4d
