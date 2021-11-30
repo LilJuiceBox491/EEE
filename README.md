@@ -1,7 +1,6 @@
 # EEE Unblocked Games
-EEE unblocked games is a website hosting various fun games that you can play without having to worry about internet censorship at the following domains:
+EEE Unblocked games is a website hosting various fun games that you can play without having to worry about internet censorship at the following domains:
 - [Vercel Domain](https://eeegames.vercel.app)
-- [Replit Domain](https://eee.liljuicebox491.repl.co)
 - Or, self host it yourself with the code! Look below for instructions!
 
 ## How to self-host
