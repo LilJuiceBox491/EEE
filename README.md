@@ -1,4 +1,4 @@
-| :warning: EEEGames is facing some issues meaning some games won't work sometimes. Check back here for updates.  |
+| :warning: EEEGames is facing some issues causing some games to go down temporarily sometimes. This will be fixed soon, make sure to check back here for updates.  |
 |-----------------------------------------|
 
 # EEE Unblocked Games
