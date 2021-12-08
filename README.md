@@ -1,3 +1,6 @@
+| :warning: EEEGames is facing some issues causing some games won't work at the moment. Check back here for updates.  |
+|-----------------------------------------|
+
 # EEE Unblocked Games
 EEE Unblocked games is a website hosting various fun games that you can play without having to worry about internet censorship at the following domains:
 - [Vercel Domain](https://eeegames.vercel.app)
