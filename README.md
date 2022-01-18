@@ -1,4 +1,4 @@
-| :warning: EEEGames is facing some issues causing some games to go down temporarily sometimes. This will be fixed soon, make sure to check back here for updates.  |
+| 🎮 Hello. EEEGames is facing pressure from competition. We are working on a revamp which will add tons of games and make the site much more user friendly, but until then we ask of you that if you enjoy the site we would appreciate if you share the website and help keep it up. Thanks for supporting us.  |
 |-----------------------------------------|
 
 # EEE Unblocked Games
