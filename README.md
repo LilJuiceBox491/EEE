@@ -1,4 +1,4 @@
-| 🎮 Hello. EEEGames is facing pressure from competition. We are working on a revamp which will add tons of games and make the site much more user friendly, but until then we ask of you that if you enjoy the site we would appreciate if you share the website and help keep it up. Thanks for supporting us.  |
+| ⚠️ Hello. We are aware of multiple games not working on EEEGames. We are actively working on fixing it. Another note is that Robot Skateboard is no longer playable. The original game's certificate has expired and so there is no way to get the game back. We apologize for the inconvenience.  |
 |-----------------------------------------|
 
 # EEE Unblocked Games
