@@ -1,4 +1,4 @@
-| ⚠️ Hello. We are aware of multiple games not working on EEEGames. We are actively working on fixing it. Another note is that Robot Skateboard is no longer playable. The original game's certificate has expired and so there is no way to get the game back. We apologize for the inconvenience.  |
+| ⚠️ Hello. We are sad to inform you that Robot Skateboard is no longer playable. The original game's certificate has expired and so there is no way to get the game back. We apologize for the inconvenience.  |
 |-----------------------------------------|
 
 # EEE Unblocked Games
