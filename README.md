@@ -1,4 +1,4 @@
-| ⚠️ Hello. We are sad to inform you that Robot Skateboard is no longer playable. The original game's certificate has expired and so there is no way to get the game back. We apologize for the inconvenience.  |
+| ⚠️ Hello. We are sad to inform you that Robot Skateboard is no longer playable. The original game's certificate has expired and so there is no way to get the game back. Along with that, we have replaced Cookie Clicker which was also taken down with Semiquaver Clicker. We apologize for the inconvenience.  |
 |-----------------------------------------|
 
 # EEE Unblocked Games
